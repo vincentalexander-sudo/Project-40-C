@@ -12,10 +12,13 @@ void tabelDepresiasi (int tahunSekarang, float nilaiAset, float lamaDepresiasi) 
         if (sisaNilai <= 0) {
             sisaNilai = 0;
         }
+
         printf("Tahun %d: %.2f\n", tahunSekarang + i, sisaNilai);
+
         if (sisaNilai <= 0) {
             break;
         }
+        
         sisaNilai -= depresiasiTahunan;
     }
 }

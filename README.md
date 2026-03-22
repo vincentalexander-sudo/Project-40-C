@@ -25,7 +25,6 @@ Repository ini berisi kumpulan proyek pemrograman C sebagai bagian dari tantanga
 14. **Perhitungan Lingkaran**: Menghitung luas dan keliling lingkaran.
 15. **Ganjil Genap**: Menentukan kategori angka menggunakan operator modulo.
 
-
 ### Day 4: 
 16. **Jajargenjang**: Menghitung luas dan keliling jajargenjang.
 17. **Trapesium**: Perhitungan luas dan keliling trapesium sama kaki menggunakan input sisi miring.
@@ -33,5 +32,11 @@ Repository ini berisi kumpulan proyek pemrograman C sebagai bagian dari tantanga
 19. **Segitiga Heron**: Menghitung keliling dan luas segitiga heron berdasarkan panjang tiga sisi 
 20. **Energi Fisika**: Kalkulator Energi Potensial dan Energi Kinetik dengan konstanta gravitasi 9.8.
 
+### Day 5: 
+21. **Nilai**: Mengonversi nilai angka mahasiswa menjadi grade huruf (A-E).
+22. **Tahun Kabisat**: Menentukan apakah suatu tahun adalah kabisat.
+23. **Kasir**: Sistem kasir sederhana.
+24. **Kuadran Kartesius**: Menentukan posisi titik koordinat (X, Y) pada grafik dua dimensi.
+25. **Menu Restoran**: Simulasi pemesanan menu restoran.
 ---
 *Dibuat oleh: Vincent Alexander*
