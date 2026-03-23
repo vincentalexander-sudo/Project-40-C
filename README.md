@@ -23,13 +23,13 @@ Repository ini berisi kumpulan proyek pemrograman C sebagai bagian dari tantanga
 12. **Deret Aritmatika**: Membuat barisan angka berdasarkan selisih kustom.
 13. **Konversi Suhu**: Mengubah Celcius ke Fahrenheit, Reamur, dan Kelvin.
 14. **Perhitungan Lingkaran**: Menghitung luas dan keliling lingkaran.
-15. **Ganjil Genap**: Menentukan kategori angka menggunakan operator modulo.
+15. **Ganjil Genap**: Menentukan kategori angka.
 
 ### Day 4: 
 16. **Jajargenjang**: Menghitung luas dan keliling jajargenjang.
 17. **Trapesium**: Perhitungan luas dan keliling trapesium sama kaki menggunakan input sisi miring.
 18. **Belah Ketupat**: Menghitung luas (diagonal) dan keliling (sisi) dalam satu program.
-19. **Segitiga Heron**: Menghitung keliling dan luas segitiga heron berdasarkan panjang tiga sisi 
+19. **Segitiga Heron**: Menghitung keliling dan luas segitiga heron berdasarkan panjang tiga sisi. 
 20. **Energi Fisika**: Kalkulator Energi Potensial dan Energi Kinetik dengan konstanta gravitasi 9.8.
 
 ### Day 5: 
@@ -38,5 +38,12 @@ Repository ini berisi kumpulan proyek pemrograman C sebagai bagian dari tantanga
 23. **Kasir**: Sistem kasir sederhana.
 24. **Kuadran Kartesius**: Menentukan posisi titik koordinat (X, Y) pada grafik dua dimensi.
 25. **Menu Restoran**: Simulasi pemesanan menu restoran.
+
+### Day 6:
+26. **Pembalik Angka**: Membalikkan urutan angka (misal 1234 jadi 4321).
+27. **Tabel Perkalian**: Membuat tabel perkalian dinamis.
+28. **Total Belanja**: Menjumlahkan input angka terus-menerus hingga user mengetik 0.
+29. **Tebak Angka**: Permainan tebak angka sederhan.
+30. **Deret Fibonacci**: Menampilkan urutan angka deret Fibonacci hingga batas yang ditentukan.
 ---
 *Dibuat oleh: Vincent Alexander*
