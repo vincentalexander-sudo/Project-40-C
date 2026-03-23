@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int x, y;
+    int x, y, sukuSaatIni;
+    int total = 0;
     printf("Masukkan angka x: ");
     scanf("%d", &x);
 
@@ -9,8 +10,11 @@ int main() {
     scanf("%d", &y);
 
     for (int i = 1; i <= x; i++) {
-        printf("%d ", y + (i * x));
+        sukuSaatIni = y + (i * x);
+        printf("%d ", sukuSaatIni );
+        total += sukuSaatIni;
     }
-    printf("\n");
+
+    printf("\nTotal: %d", total);
     return 0;
 }
