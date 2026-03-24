@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int x,y;
+    int x, y;
     printf("Masukkan koordinat x: ");
     scanf("%d", &x);
     printf("Masukkan koordinat y: ");
