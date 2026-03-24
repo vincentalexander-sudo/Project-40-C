@@ -45,7 +45,6 @@ Repository ini berisi kumpulan proyek pemrograman C sebagai bagian dari tantanga
 28. **Total Belanja**: Menjumlahkan input angka terus-menerus hingga user mengetik 0.
 29. **Tebak Angka**: Permainan tebak angka sederhan.
 30. **Deret Fibonacci**: Menampilkan urutan angka deret Fibonacci hingga batas yang ditentukan.
----
 
 ### Day 7: 
 31. **Jumlah Array**: Menjumlahkan seluruh elemen angka di dalam sebuah array.
@@ -53,4 +52,6 @@ Repository ini berisi kumpulan proyek pemrograman C sebagai bagian dari tantanga
 33. **Linear Search**: Mencari posisi indeks suatu angka spesifik di dalam array.
 34. **Struk Belanja**: Menghitung total harga barang menggunakan array harga dan array kuantitas.
 35. **Bubble Sort**: Mengurutkan elemen array dari nilai terkecil ke terbesar.
+
+---
 *Dibuat oleh: Vincent Alexander*
