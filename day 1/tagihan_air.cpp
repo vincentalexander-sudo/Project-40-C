@@ -25,7 +25,7 @@ void cetakSlipTagihan(int jumlahPemakaian, int tagihan, char nama[]) {
 
 int main() {
     int bulanIni, bulanLalu, jumlahPemakaian, tagihan;
-    char nama[30]; 
+    char nama[50]; 
 
     printf("Nama Pelanggan: ");
     scanf("%s", nama); 
