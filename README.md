@@ -53,5 +53,11 @@ Repository ini berisi kumpulan proyek pemrograman C sebagai bagian dari tantanga
 34. **Struk Belanja**: Menghitung total harga barang menggunakan array harga dan array kuantitas.
 35. **Bubble Sort**: Mengurutkan elemen array dari nilai terkecil ke terbesar.
 
+### Day 8:
+36. **Data Mahasiswa**: Menyimpan dan menampilkan biodata mahasiswa.
+37. **Buku Perpustakaan**: Mengelola informasi buku denga.
+38. **Data Pegawai**: Menyimpan data pegawai beserta perhitungan total gaji.
+39. **Inventaris Barang**: Menyimpan banyak data barang.
+40. **Tiket Pesawat**: Sistem cetak boarding pass penerbangan.
 ---
 *Dibuat oleh: Vincent Alexander*
