@@ -12,19 +12,19 @@ int main() {
     printf("Masukkan jumlah barang: ");
     scanf("%d", &jumlahBarang);
 
-    struct Barang arrBarang[jumlahBarang];
+    struct Barang arrayBarang[jumlahBarang];
 
     for(int i = 0; i < jumlahBarang; i++) {
         printf("Nama Barang ke-%d: ", i+1);
-        scanf(" %[^\n]s", arrBarang[i].nama);
+        scanf(" %[^\n]s", arrayBarang[i].nama);
         printf("Harga: ");
-        scanf("%d", &arrBarang[i].harga);
+        scanf("%d", &arrayBarang[i].harga);
         printf("Stok: ");
-        scanf("%d", &arrBarang[i].stok);
+        scanf("%d", &arrayBarang[i].stok);
     }
 
     for(int i = 0; i < jumlahBarang; i++) {
-        printf("%d. %s - Harga: %d - Stok: %d\n", i+1, arrBarang[i].nama, arrBarang[i].harga, arrBarang[i].stok);
+        printf("%d. %s - Harga: %d - Stok: %d\n", i+1, arrayBarang[i].nama, arrayBarang[i].harga, arrayBarang[i].stok);
     }
     return 0;
 }
